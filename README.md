@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Raveesha Wijewardana 👋
 
-<!--
-**wijayawardhanenipuni/wijayawardhanenipuni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Senior QA Engineer | Automation Testing | API Testing | Quality Engineering
 
-Here are some ideas to get you started:
+Experienced QA Engineer with 3+ years of experience in Manual and Automation Testing, ensuring software quality through robust test strategies, automation frameworks, and continuous improvement.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technical Skills
+
+- Automation Testing (Selenium, Playwright)
+- API Testing (Postman, REST Assured)
+- Java
+- SQL
+- TestNG
+- Git & GitHub
+- CI/CD
+- Agile Scrum
+- SDLC & STLC
+
+### Featured Projects
+
+🔹 Selenium Automation Framework
+
+🔹 Playwright Automation Framework
+
+🔹 REST Assured API Framework
+
+🔹 QA Knowledge Hub
+
+### Currently Learning
+
+- Advanced Automation Framework Design
+- CI/CD Automation
+- Performance Testing
+
+### Connect With Me
+
+LinkedIn: [www.linkedin.com/in/
+nipuniwijayawardana]
+
+Email: wijayawardhananipuni.com
