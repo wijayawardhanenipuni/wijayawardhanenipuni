@@ -37,4 +37,4 @@ Experienced QA Engineer with 3+ years of experience in Manual and Automation Tes
 LinkedIn: [www.linkedin.com/in/
 nipuniwijayawardana]
 
-Email: wijayawardhananipuni.com
+Email: wijayawardhananipuni@gmail.com
