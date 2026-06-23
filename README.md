@@ -1,46 +1,171 @@
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Nipuni Wijayawardhana</h1>
-<h3 align="center">Senior QA Engineer | Automation Testing | API Testing | Quality Engineering</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:534AB7,50:1D9E75,100:D85A30&height=140&section=header&text=Nipuni%20Wijayawardhana&fontSize=30&fontColor=ffffff&fontAlignY=60&desc=Senior%20QA%20Engineer%20%7C%20Automation%20%7C%20API%20Testing%20%7C%20Quality%20Engineering&descSize=14&descAlignY=80&descColor=ffffffcc&animation=fadeIn" width="100%"/>
 
-<p align="center"> Experienced QA Engineer with 3+ years of experience in Manual and Automation Testing, ensuring software quality through robust test strategies, automation frameworks, and continuous improvement.  </p>
+<br/>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=wijayawardhanenipuni&label=Profile%20views&color=0e75b6&style=flat"/> </p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2800&pause=900&color=1D9E75&center=true&vCenter=true&multiline=false&width=560&lines=Building+quality+into+every+release+%F0%9F%9A%80;Automation+enthusiast+%26+API+specialist+%E2%9A%A1;Breaking+things+%E2%80%94+professionally+%F0%9F%92%A5;Running+miles+%26+running+test+suites+%F0%9F%8F%83%E2%80%8D%E2%99%80%EF%B8%8F;Coffee-driven%2C+bug-driven%2C+quality-driven+%E2%98%95" alt="Typing animation"/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
+<br/><br/>
 
-- 🔭 I’m currently working as a Senior QA(CAMBIO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nipuniwijayawardana/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1D9E75?style=for-the-badge&logo=vercel&logoColor=white)](https://nipuniwijayawardhana.lovable.app)
+[![Email](https://img.shields.io/badge/Email-D85A30?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wijayawardhananipuni@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-534AB7?style=for-the-badge&logo=googledrive&logoColor=white)](https://bit.ly/NipuniWijayawardana-SQA-CV)
+[![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nipu.niii_w/)
 
-- 🌱 I’m currently learning **Selenium and playwright Automation Frameworks**
+<br/>
 
-- 👨‍💻 All of my projects are available at [https://nipuniwijayawardhana.lovable.app](https://nipuniwijayawardhana.lovable.app)
+![Profile Views](https://komarev.com/ghpvc/?username=wijayawardhanenipuni&style=for-the-badge&color=534AB7&label=PROFILE+VIEWS)
 
-- 📫 How to reach me **wijayawardhananipuni@gmail.com**
+</div>
 
-- 📄 Know about my experiences [https://bit.ly/NipuniWijayawardana-SQA-CV](https://bit.ly/NipuniWijayawardana-SQA-CV)
+---
 
-- ⚡ Fun fact **I am a fun runner who run miles for vibes**
+## 🧑‍💻 About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nipuniwijayawardana/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nipuniwijayawardana/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/nipu.niii_w/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/nipu.niii_w/" height="30" width="40" /></a>
-</p>
+```yaml
+Name        : Nipuni Wijayawardhana
+Role        : Senior QA Engineer @ Cambio 🇱🇰
+Experience  : 3+ years in Manual & Automation Testing
+Specialties :
+  - Automation Framework Design (Selenium, Playwright)
+  - API Testing & Validation (Postman, REST Assured)
+  - CI/CD Quality Gates & Pipeline Integration
+  - Agile QA Strategy & Test Planning
+Learning    :
+  - Playwright + TypeScript advanced patterns
+  - BDD with Cucumber
+  - Performance testing with k6
+Writing     : QA articles on Hashnode / Dev.to (coming soon)
+Fun Fact    : I run miles for vibes 🏃‍♀️ and test bugs for breakfast ☕
+```
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+---
 
-### QA Technical Skills
+## 🧠 QA Mindset
 
-- Automation Testing (Selenium, Playwright)
-- API Testing (Postman, REST Assured)
-- TestNG
-- CI/CD
-- Agile Scrum
-- SDLC & STLC
+<div align="center">
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/buy me a coffee"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buy me a coffee" /></a></p><br><br><br>
+| 🔍 Curious | 🎯 Quality-Focused | ⚡ Problem Solver | 📈 Always Improving | 🤝 Team Player |
+|:---:|:---:|:---:|:---:|:---:|
+| Ask why before what | Zero bugs in prod | Root-cause first | Retrospect & adapt | Lift others up |
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wijayawardhanenipuni&show_icons=true&locale=en" alt="wijayawardhanenipuni" /></p>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wijayawardhanenipuni&" alt="wijayawardhanenipuni" /></p>
+---
+
+## 🛠️ Tech Toolbox
+
+### 🤖 Automation & Testing
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![TestNG](https://img.shields.io/badge/TestNG-EA4335?style=for-the-badge&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![REST Assured](https://img.shields.io/badge/REST_Assured-6DB33F?style=for-the-badge&logoColor=white)
+
+### 💻 Languages
+![Java](https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### ⚙️ DevOps & CI/CD
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### 📋 Process & Collaboration
+![Agile](https://img.shields.io/badge/Agile_Scrum-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
+
+---
+
+## 🚧 Currently Working On
+
+| Status | What |
+|--------|------|
+| 🟢 **In Progress** | Reusable Playwright + TypeScript e2e framework with Page Object Model |
+| 🟡 **Learning** | BDD with Cucumber · Performance testing with k6 |
+| 🔵 **Planning** | Writing QA articles on Hashnode / Dev.to |
+| ⭐ **Goal** | Contribute to open-source test automation projects |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=wijayawardhanenipuni&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=534AB7&icon_color=1D9E75&text_color=c9d1d9&ring_color=D85A30" height="160"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wijayawardhanenipuni&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=534AB7&text_color=c9d1d9" height="160"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=wijayawardhanenipuni&theme=tokyonight&hide_border=true&background=0D1117&ring=534AB7&fire=D85A30&currStreakLabel=1D9E75&sideLabels=534AB7" width="60%"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=wijayawardhanenipuni&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=wijayawardhanenipuni&bg_color=0D1117&color=1D9E75&line=534AB7&point=D85A30&area=true&area_color=534AB7&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🌱 Beyond Testing
+
+```
+🏃‍♀️  Running  →  Training for the next milestone
+☕  Coffee    →  Fuel for the next test suite
+🎵  Music     →  Debug mode soundtrack
+📚  Reading   →  Latest QA & engineering blogs
+🌍  Community →  CSR activities & giving back
+```
+
+---
+
+## 💬 QA Wisdom
+
+> *"Quality is not an act, it is a habit."*
+> — Aristotle (adopted by every QA engineer ever)
+
+---
+
+<div align="center">
+
+### 🚀 TEST · AUTOMATE · IMPROVE · REPEAT
+
+<a href="https://www.buymeacoffee.com/nipuniw">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="180" alt="Buy me a coffee" />
+</a>
+
+<br/><br/>
+
+*Thanks for stopping by — go ship quality code!* ✨
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D85A30,50:1D9E75,100:534AB7&height=100&section=footer" width="100%"/>
+
+</div>
