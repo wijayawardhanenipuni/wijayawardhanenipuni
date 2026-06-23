@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **wijayawardhananipuni@gmail.com**
 
-- 📄 Know about my experiences [https://bit.ly/Nipuni-Wijayawardhana-SQA-CV](https://bit.ly/Nipuni-Wijayawardhana-SQA-CV)
+- 📄 Know about my experiences [https://bit.ly/NipuniWijayawardana-SQA-CV](https://bit.ly/NipuniWijayawardana-SQA-CV)
 
 - ⚡ Fun fact **I am a fun runner who run miles for vibes**
 
